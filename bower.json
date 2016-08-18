@@ -1,0 +1,17 @@
+{
+    "name": "lilyscriptone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Julia Petretta"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lilyscriptone-bower.git"
+    },
+    "description": "Lily Script One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
